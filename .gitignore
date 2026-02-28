@@ -1,0 +1,29 @@
+.DS_Store
+.AppleDouble
+.Spotlight-V100
+.Trashes
+
+# Maven / Java
+/target/
+/logs/
+/hs_err_pid*
+*.iml
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Env & local DB
+.env
+.env.*
+/data/
+/jarbudget.mv.db
