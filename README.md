@@ -2,7 +2,7 @@
 
 Simple Spring Boot (Java 17, Maven) backend with optional Vite/React frontend for quick expense tracking.
 
-Conflict A note: version A of README line.
+Conflict B note: version B of README line.
 
 ## Run backend
 mvn spring-boot:run
